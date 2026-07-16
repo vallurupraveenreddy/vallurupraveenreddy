@@ -44,10 +44,11 @@
 
 ---
 
+## 🛠️ Tech Stack
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,vscode,eclipse,maven" />
 </p>
----
 
 # 🚀 Featured Projects
 
