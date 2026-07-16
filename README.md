@@ -44,28 +44,9 @@
 
 ---
 
-# 🛠 Tech Stack
-
-### Languages
-
-Java • JavaScript • SQL • HTML • CSS
-
-### Backend
-
-Spring Boot • Spring MVC • Hibernate • JDBC • REST APIs
-
-### Frontend
-
-React.js • HTML • CSS • JavaScript
-
-### Database
-
-MySQL
-
-### Tools
-
-Git • GitHub • Postman • VS Code • Eclipse • STS
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,vscode,eclipse,maven" />
+</p>
 ---
 
 # 🚀 Featured Projects
