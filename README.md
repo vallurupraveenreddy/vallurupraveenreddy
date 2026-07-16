@@ -89,3 +89,67 @@
 </p>
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vallurupraveenreddy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallurupraveenreddy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vallurupraveenreddy&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vallurupraveenreddy&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vallurupraveenreddy&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/vallurupraveenreddy/">
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/vallurupravoynj">
+<img src="https://img.shields.io/badge/GeeksforGeeks-250%2B%20Problems-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+</div>
+
+---
+
+# 🏅 Certifications
+
+- ✅ ServiceNow Certified System Administrator (CSA)
+- ✅ ServiceNow Certified Application Developer (CAD)
+
+---
