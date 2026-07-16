@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar Reddy</h1>
 
-<h3 align="center">
-Software Developer | Java | Spring Boot | React | ServiceNow CSA & CAD
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Spring+Boot+Developer;React+Developer;ServiceNow+CSA+%26+CAD;400%2B+LeetCode+Problems" alt="Typing SVG" />
+
 
 <p align="center">
 🎓 B.Tech CSE (2027) • Mohan Babu University
