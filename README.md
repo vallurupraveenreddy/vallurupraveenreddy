@@ -101,35 +101,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vallurupraveenreddy&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vallurupraveenreddy&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vallurupraveenreddy&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # 💻 Coding Profiles
 
